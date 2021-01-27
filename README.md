@@ -6,7 +6,6 @@ My name is Lavie, I'm 19 years old and I'm currently studying Electrical Practic
 * My final college project - a device that can connect externally to automatic doors, and will permit entry only if the person client wears a mask and has a valid body temperature.
 Involves Python, TensorFlow 2, OpenCV, and more.
 * [Selenium](https://github.com/lgariv/selenium/), [DownloadBar14](https://github.com/lgariv/downloadbar14/), [SeeYa](https://github.com/lgariv/seeya/) iOS jailbreak tweaks.
-*  iOS jailbreak tweak.
 
 #### 📚 Aside from my degree, I'm currently learning:
 * Machine Learning and TensorFlow (Keras specifically).
