@@ -1,11 +1,11 @@
 # Hi there 👋
 
-My name is Lavie, I'm 19 years old and I'm currently studying Electrical Practical Engineering with specialization in electronics and communications in college.
+My name is Lavie, I'm 19 years old and I'm currently studying Electrical Practical Engineering with specialization in electronics and telecommunication systems in college.
 
 #### 👨‍💻 I’m currently working on:
 * My final college project - a device that can connect externally to automatic doors, and will permit entry only if the person client wears a mask and has a valid body temperature.
 Involves Python, TensorFlow 2, OpenCV, and more.
-* [Selenium](https://github.com/lgariv/selenium/), [DownloadBar14](https://github.com/lgariv/downloadbar14/), [SeeYa](https://github.com/lgariv/seeya/) iOS jailbreak tweaks.
+* [Selenium](https://github.com/lgariv/selenium/), [Prog](https://github.com/lgariv/Prog/), [SeeYa](https://github.com/lgariv/seeya/) iOS jailbreak tweaks.
 
 #### 📚 Aside from my degree, I'm currently learning:
 * Machine Learning and TensorFlow (Keras specifically).
