@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Lavie, I'm 19 years old and I'm currently studying Electrical Practical Engineering with specialization in electronics and telecommunication systems in college.
+My name is Lavie, I'm 20 years old and I'm currently studying Electrical Practical Engineering with specialization in electronics and telecommunication systems in college.
 
 #### 👨‍💻 I’m currently working on:
 * My final college project - a device that can connect externally to automatic doors, and will permit entry only if the person client wears a mask and has a valid body temperature.
@@ -15,7 +15,7 @@ Involves Python, TensorFlow 2, OpenCV, and more.
 #### 🤹‍♂️ I have good skills in:
 * C, and Objective-C programming languages.
 * Arduino and Micro-controllers in general.
-* iOS Jailbreak tweak development (shows up as "Logos", but is actually Objective-C).
+* iOS Jailbreak tweak development.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lgariv&hide=prs&count_private=true&theme=dark" />
