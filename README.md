@@ -7,7 +7,7 @@ My name is Lavie, I'm 20 years old and I'm an Electrical Engineer, with speciali
 Involves Python, TensorFlow 2, OpenCV, and more.
 * [Selenium](https://github.com/lgariv/selenium/), [Prog](https://github.com/lgariv/Prog/), [SeeYa](https://github.com/lgariv/seeya/) iOS jailbreak tweaks.
 
-#### 📚 Aside from my degree, I'm currently learning:
+#### 📚 Currently, I'm most interested in:
 * Machine Learning and TensorFlow (Keras specifically).
 * Python.
 * iOS front-end app development (Swift 5 and SwiftUI).
