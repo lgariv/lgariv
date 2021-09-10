@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Lavie, I'm 20 years old and I'm currently studying Electrical Practical Engineering with specialization in electronics and telecommunication systems in college.
+My name is Lavie, I'm 20 years old and I'm an Electrical Engineer, with specialization in telecommunication systems.
 
 #### 👨‍💻 I’m currently working on:
 * My final college project - a device that can connect externally to automatic doors, and will permit entry only if the person client wears a mask and has a valid body temperature.
